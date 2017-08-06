@@ -7,3 +7,12 @@ D:\Tuan_Source\Library\Library\Library\obj\Debug\netcoreapp1.1\Library.csprojRes
 D:\Tuan_Source\Library\Library\Library\obj\Debug\netcoreapp1.1\Library.AssemblyInfo.cs
 D:\Tuan_Source\Library\Library\Library\obj\Debug\netcoreapp1.1\Library.dll
 D:\Tuan_Source\Library\Library\Library\obj\Debug\netcoreapp1.1\Library.pdb
+D:\Tuan_Source\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.deps.json
+D:\Tuan_Source\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.runtimeconfig.json
+D:\Tuan_Source\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.runtimeconfig.dev.json
+D:\Tuan_Source\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.dll
+D:\Tuan_Source\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.pdb
+D:\Tuan_Source\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.csprojResolveAssemblyReference.cache
+D:\Tuan_Source\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.AssemblyInfo.cs
+D:\Tuan_Source\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.dll
+D:\Tuan_Source\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.pdb

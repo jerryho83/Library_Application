@@ -9775,10 +9775,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tuan_Source\\Library\\Library\\Library\\Library.csproj",
+      "projectUniqueName": "D:\\Tuan_Source\\Library_Application\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "D:\\Tuan_Source\\Library\\Library\\Library\\Library.csproj",
-      "outputPath": "D:\\Tuan_Source\\Library\\Library\\Library\\obj\\",
+      "projectPath": "D:\\Tuan_Source\\Library_Application\\Library\\Library.csproj",
+      "outputPath": "D:\\Tuan_Source\\Library_Application\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
