@@ -16,3 +16,14 @@ D:\Tuan_Source\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.cspro
 D:\Tuan_Source\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.AssemblyInfo.cs
 D:\Tuan_Source\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.dll
 D:\Tuan_Source\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.pdb
+C:\Users\Jerry\Desktop\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.deps.json
+C:\Users\Jerry\Desktop\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.runtimeconfig.json
+C:\Users\Jerry\Desktop\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.runtimeconfig.dev.json
+C:\Users\Jerry\Desktop\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.dll
+C:\Users\Jerry\Desktop\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.pdb
+C:\Users\Jerry\Desktop\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Desktop\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.AssemblyInfo.cs
+C:\Users\Jerry\Desktop\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.dll
+C:\Users\Jerry\Desktop\Library_Application\Library\obj\Debug\netcoreapp1.1\Library.pdb
+C:\Users\Jerry\Desktop\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.Data.dll
+C:\Users\Jerry\Desktop\Library_Application\Library\bin\Debug\netcoreapp1.1\Library.Data.pdb

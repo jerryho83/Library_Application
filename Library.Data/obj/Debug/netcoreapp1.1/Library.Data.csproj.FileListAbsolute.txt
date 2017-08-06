@@ -1,0 +1,6 @@
+C:\Users\Jerry\Desktop\Library_Application\Library.Data\bin\Debug\netcoreapp1.1\Library.Data.deps.json
+C:\Users\Jerry\Desktop\Library_Application\Library.Data\bin\Debug\netcoreapp1.1\Library.Data.dll
+C:\Users\Jerry\Desktop\Library_Application\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.AssemblyInfo.cs
+C:\Users\Jerry\Desktop\Library_Application\Library.Data\bin\Debug\netcoreapp1.1\Library.Data.pdb
+C:\Users\Jerry\Desktop\Library_Application\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.dll
+C:\Users\Jerry\Desktop\Library_Application\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.pdb
