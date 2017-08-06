@@ -1,0 +1,9 @@
+C:\Users\Jerry\Desktop\Library_Application\Library.Service\bin\Debug\netcoreapp1.1\Library.Service.deps.json
+C:\Users\Jerry\Desktop\Library_Application\Library.Service\bin\Debug\netcoreapp1.1\Library.Service.dll
+C:\Users\Jerry\Desktop\Library_Application\Library.Service\bin\Debug\netcoreapp1.1\Library.Service.pdb
+C:\Users\Jerry\Desktop\Library_Application\Library.Service\bin\Debug\netcoreapp1.1\Library.Data.dll
+C:\Users\Jerry\Desktop\Library_Application\Library.Service\bin\Debug\netcoreapp1.1\Library.Data.pdb
+C:\Users\Jerry\Desktop\Library_Application\Library.Service\obj\Debug\netcoreapp1.1\Library.Service.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Desktop\Library_Application\Library.Service\obj\Debug\netcoreapp1.1\Library.Service.AssemblyInfo.cs
+C:\Users\Jerry\Desktop\Library_Application\Library.Service\obj\Debug\netcoreapp1.1\Library.Service.dll
+C:\Users\Jerry\Desktop\Library_Application\Library.Service\obj\Debug\netcoreapp1.1\Library.Service.pdb

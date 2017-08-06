@@ -4,3 +4,4 @@ C:\Users\Jerry\Desktop\Library_Application\Library.Data\obj\Debug\netcoreapp1.1\
 C:\Users\Jerry\Desktop\Library_Application\Library.Data\bin\Debug\netcoreapp1.1\Library.Data.pdb
 C:\Users\Jerry\Desktop\Library_Application\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.dll
 C:\Users\Jerry\Desktop\Library_Application\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.pdb
+C:\Users\Jerry\Desktop\Library_Application\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.csprojResolveAssemblyReference.cache

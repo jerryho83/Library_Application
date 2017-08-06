@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 using Library.Data;
+using Library.Service;
 namespace Library
 {
     public class Startup
@@ -26,6 +27,8 @@ namespace Library
         {
             // Add framework services.
             services.AddMvc();
+            services.AddSingleton(Configuration);
+            services.AddScoped<ILibraryAssets, LibraryAssetService>();
             services.AddDbContext<LibraryContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("LibraryConnection")));
         }
